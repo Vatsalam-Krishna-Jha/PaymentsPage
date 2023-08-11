@@ -1,0 +1,613 @@
+[
+      {
+        "Appy": "Airtel Thanks",
+        "VPAHandle": "airtel",
+        "Bank": "Airtel Payments Bank"
+      },
+      {
+        "Appy": "Amazon Pay",
+        "VPAHandle": "apl",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Amazon Pay",
+        "VPAHandle": "rapl",
+        "Bank": "RBL Bank"
+      },
+      {
+        "Appy": "Amazon Pay",
+        "VPAHandle": "yapl",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "Andhra Bank ONE",
+        "VPAHandle": "andb",
+        "Bank": "Andhra Bank"
+      },
+      {
+        "Appy": "AU 0101",
+        "VPAHandle": "aubank",
+        "Bank": "AU Small Finance Bank"
+      },
+      {
+        "Appy": "Axis Mobile",
+        "VPAHandle": "axisbank",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Axis Pay",
+        "VPAHandle": "axisbank",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Bandhan UPI",
+        "VPAHandle": "bandhan",
+        "Bank": "Bandhan Bank"
+      },
+      {
+        "Appy": "Bajaj Finserv",
+        "VPAHandle": "abfspay",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Baroda Pay",
+        "VPAHandle": "barodamp",
+        "Bank": "Bank of Baroda"
+      },
+      {
+        "Appy": "Baroda Pay",
+        "VPAHandle": "bob",
+        "Bank": "Bank of Baroda"
+      },
+      {
+        "Appy": "BHIM",
+        "VPAHandle": "upi",
+        "Bank": "NPCI"
+      },
+      {
+        "Appy": "BOI UPI",
+        "VPAHandle": "boi",
+        "Bank": "Bank of India"
+      },
+      {
+        "Appy": "CANDI",
+        "VPAHandle": "cnrb",
+        "Bank": "Canara Bank"
+      },
+      {
+        "Appy": "Cent UPI",
+        "VPAHandle": "centralbank",
+        "Bank": "Central Bank of India"
+      },
+      {
+        "Appy": "Chillr",
+        "VPAHandle": "hdfcbank",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "ChintaMoney",
+        "VPAHandle": "kmbl",
+        "Bank": "Kotak Mahindra Bank Limited"
+      },
+      {
+        "Appy": "CoinTab",
+        "VPAHandle": "fbl",
+        "Bank": "Federal Bank"
+      },
+      {
+        "Appy": "CRED",
+        "VPAHandle": "axisb",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "CSB Pay",
+        "VPAHandle": "csbpay",
+        "Bank": "CSB Bank"
+      },
+      {
+        "Appy": "CU Merchant",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "CU - UPI Payments, Chat & Call",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "Dena UPI",
+        "VPAHandle": "denabank",
+        "Bank": "Dena Bank"
+      },
+      {
+        "Appy": "DCB Bank UPI",
+        "VPAHandle": "dcb",
+        "Bank": "DCB Bank"
+      },
+      {
+        "Appy": "DLB UPI",
+        "VPAHandle": "dlb",
+        "Bank": "Dhanlaxmi Bank"
+      },
+      {
+        "Appy": "digibank by DBS",
+        "VPAHandle": "dbs",
+        "Bank": "DBS Bank India"
+      },
+      {
+        "Appy": "Eazypay",
+        "VPAHandle": "icici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "Equitas UPI",
+        "VPAHandle": "equitas",
+        "Bank": "Equitas Small Finance Bank"
+      },
+      {
+        "Appy": "Fave",
+        "VPAHandle": "idfcbank",
+        "Bank": "IDFC First Bank"
+      },
+      {
+        "Appy": "Finmo",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "Fino BPay",
+        "VPAHandle": "finobank",
+        "Bank": "Fino Payments Bank"
+      },
+      {
+        "Appy": "FinShell Pay",
+        "VPAHandle": "rmhdfcbank",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "Fi Money",
+        "VPAHandle": "fbl",
+        "Bank": "Federal Bank"
+      },
+      {
+        "Appy": "Freecharge",
+        "VPAHandle": "freecharge",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Goibibo",
+        "VPAHandle": "icici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "Google Pay",
+        "VPAHandle": "okaxis",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Google Pay",
+        "VPAHandle": "okhdfcbank",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "Google Pay",
+        "VPAHandle": "okicici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "Google Pay",
+        "VPAHandle": "oksbi",
+        "Bank": "State Bank of India"
+      },
+      {
+        "Appy": "HDFC Bank SmartHub",
+        "VPAHandle": "hdfcbank",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "HDFC Bank MobileBanking",
+        "VPAHandle": "hdfcbank",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "HSBC Simply Pay",
+        "VPAHandle": "hsbc",
+        "Bank": "HSBC Bank India"
+      },
+      {
+        "Appy": "Hike",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "IDFC First Bank UPI",
+        "VPAHandle": "idfcbabk",
+        "Bank": "IDFC First Bank"
+      },
+      {
+        "Appy": "ICICI iMobile Pay",
+        "VPAHandle": "icici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "ICICI InstaBIZ",
+        "VPAHandle": "icici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "Indian Bank UPI",
+        "VPAHandle": "indianbank",
+        "Bank": "Indian Bank"
+      },
+      {
+        "Appy": "IndusPay",
+        "VPAHandle": "indus",
+        "Bank": "IndusInd Bank"
+      },
+      {
+        "Appy": "IndusMobile",
+        "VPAHandle": "indus",
+        "Bank": "IndusInd Bank"
+      },
+      {
+        "Appy": "IOB UPI",
+        "VPAHandle": "iob",
+        "Bank": "Indian Overseas Bank"
+      },
+      {
+        "Appy": "JetPay",
+        "VPAHandle": "jsb",
+        "Bank": "Janata Sahakari Bank"
+      },
+      {
+        "Appy": "JK Bank UPI",
+        "VPAHandle": "jkb",
+        "Bank": "Jammu & Kashmir Bank"
+      },
+      {
+        "Appy": "Jupiter Money",
+        "VPAHandle": "jupiteraxis",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Justdial",
+        "VPAHandle": "hdfcbankjd",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "KhaaliJeb",
+        "VPAHandle": "kmbl",
+        "Bank": "Kotak Mahindra Bank"
+      },
+      {
+        "Appy": "KayPay",
+        "VPAHandle": "kaypay",
+        "Bank": "Kotak Mahindra Bank"
+      },
+      {
+        "Appy": "KBL Mobile Plus",
+        "VPAHandle": "kbl",
+        "Bank": "Karnataka Bank"
+      },
+      {
+        "Appy": "KBL UPI",
+        "VPAHandle": "kbl",
+        "Bank": "Karnataka Bank"
+      },
+      {
+        "Appy": "Kiwi",
+        "VPAHandle": "goaxb",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "KVB Upay",
+        "VPAHandle": "kvb",
+        "Bank": "Karur Vysya Bank"
+      },
+      {
+        "Appy": "Kotak 811",
+        "VPAHandle": "kotak",
+        "Bank": "Kotak Mahindra Bank"
+      },
+      {
+        "Appy": "LazyPay Pay Later",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "LOTZA UPI",
+        "VPAHandle": "federal",
+        "Bank": "Federal Bank"
+      },
+      {
+        "Appy": "LVB UPaay",
+        "VPAHandle": "lvb",
+        "Bank": "Laxmi Vilas Bank"
+      },
+      {
+        "Appy": "Maha UPI",
+        "VPAHandle": "mahb",
+        "Bank": "Bank of Maharashtra"
+      },
+      {
+        "Appy": "MakeMyTrip",
+        "VPAHandle": "indus",
+        "Bank": "IndusInd Bank"
+      },
+      {
+        "Appy": "MakeMyTrip",
+        "VPAHandle": "icici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "MaxWholesale",
+        "VPAHandle": "hsbc",
+        "Bank": "HSBC"
+      },
+      {
+        "Appy": "Mi Pay",
+        "VPAHandle": "myicici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "MobiKwik",
+        "VPAHandle": "ikwik",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "Mypoolin",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "Nupay UPI",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "Ola",
+        "VPAHandle": "axisgo",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Oriental Pay (OBC UPI)",
+        "VPAHandle": "obc",
+        "Bank": "Oriental Bank of Commerce"
+      },
+      {
+        "Appy": "PayBee",
+        "VPAHandle": "idfcbank",
+        "Bank": "IDFC Bank"
+      },
+      {
+        "Appy": "PaySay - UPI Social Payments & Split",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "Paytm",
+        "VPAHandle": "paytm",
+        "Bank": "Paytm Payments Bank"
+      },
+      {
+        "Appy": "PayZapp",
+        "VPAHandle": "hdfcbank",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "PayWiz",
+        "VPAHandle": "idbi",
+        "Bank": "IDBI Bank"
+      },
+      {
+        "Appy": "PhonePe",
+        "VPAHandle": "axl",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "PhonePe",
+        "VPAHandle": "ibl",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "PhonePe",
+        "VPAHandle": "ybl",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "PNB UPI",
+        "VPAHandle": "pnb",
+        "Bank": "Punjab National Bank"
+      },
+      {
+        "Appy": "PSB UPI",
+        "VPAHandle": "psb",
+        "Bank": "Punjab & Sind Bank"
+      },
+      {
+        "Appy": "Pockets",
+        "VPAHandle": "pockets",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "RBL Pay",
+        "VPAHandle": "rbl",
+        "Bank": "RBL Bank"
+      },
+      {
+        "Appy": "RBL MoBank",
+        "VPAHandle": "rbl",
+        "Bank": "RBL Bank"
+      },
+      {
+        "Appy": "Samsung Pay",
+        "VPAHandle": "pingpay",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "SBI Pay",
+        "VPAHandle": "sbi",
+        "Bank": "State Bank of India"
+      },
+      {
+        "Appy": "SCB UPI",
+        "VPAHandle": "scb",
+        "Bank": "Standard Chartered Bank"
+      },
+      {
+        "Appy": "SIB UPI POS",
+        "VPAHandle": "sib",
+        "Bank": "South Indian Bank"
+      },
+      {
+        "Appy": "Straight2Bank Pay",
+        "VPAHandle": "s2b",
+        "Bank": "Standard Chartered Bank"
+      },
+      {
+        "Appy": "Slash",
+        "VPAHandle": "icici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "SuperPay (ChintaMoney)",
+        "VPAHandle": "kmbl",
+        "Bank": "Kotak Mahindra Bank"
+      },
+      {
+        "Appy": "Tata Neu",
+        "VPAHandle": "tapicici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "SIB M-Pay",
+        "VPAHandle": "sib",
+        "Bank": "South Indian Bank"
+      },
+      {
+        "Appy": "Splitkart",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "slice",
+        "VPAHandle": "sliceaxis",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "Synd UPI",
+        "VPAHandle": "syndicate",
+        "Bank": "Syndicate Bank"
+      },
+      {
+        "Appy": "TranZapp",
+        "VPAHandle": "tjsb",
+        "Bank": "TJSB Bank"
+      },
+      {
+        "Appy": "Tvam",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "TimePay",
+        "VPAHandle": "timecosmos",
+        "Bank": "The Cosmos Bank"
+      },
+      {
+        "Appy": "Truecaller",
+        "VPAHandle": "icici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "Trupay",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "UCO UPI",
+        "VPAHandle": "uco",
+        "Bank": "UCO Bank"
+      },
+      {
+        "Appy": "UltraCash",
+        "VPAHandle": "idfcbank",
+        "Bank": "IDFC Bank"
+      },
+      {
+        "Appy": "U-Mobile",
+        "VPAHandle": "unionbank",
+        "Bank": "Union Bank of India"
+      },
+      {
+        "Appy": "Union Bank UPI",
+        "VPAHandle": "uboi",
+        "Bank": "Union Bank of India"
+      },
+      {
+        "Appy": "Union Bank UPI",
+        "VPAHandle": "unionbank",
+        "Bank": "Union Bank of India"
+      },
+      {
+        "Appy": "United UPI",
+        "VPAHandle": "united",
+        "Bank": "United Bank of India"
+      },
+      {
+        "Appy": "United UPI",
+        "VPAHandle": "ubi",
+        "Bank": "United Bank of India"
+      },
+      {
+        "Appy": "United UPI",
+        "VPAHandle": "utbi",
+        "Bank": "United Bank of India"
+      },
+      {
+        "Appy": "Vijaya UPI",
+        "VPAHandle": "vijb",
+        "Bank": "Vijaya Bank"
+      },
+      {
+        "Appy": "WhatsApp",
+        "VPAHandle": "icici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "WhatsApp",
+        "VPAHandle": "wahdfcbank",
+        "Bank": "HDFC Bank"
+      },
+      {
+        "Appy": "WhatsApp",
+        "VPAHandle": "waicici",
+        "Bank": "ICICI Bank"
+      },
+      {
+        "Appy": "WhatsApp",
+        "VPAHandle": "waaxis",
+        "Bank": "Axis Bank"
+      },
+      {
+        "Appy": "WhatsApp",
+        "VPAHandle": "wasbi",
+        "Bank": "State Bank of India"
+      },
+      {
+        "Appy": "YES Pay",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "Yuva Pay",
+        "VPAHandle": "yesbank",
+        "Bank": "Yes Bank"
+      },
+      {
+        "Appy": "Zomato",
+        "VPAHandle": "zoicici",
+        "Bank": "ICICI Bank"
+      }
+    ]
+  
